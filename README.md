@@ -10,7 +10,7 @@ Este script faz alterações na memória do jogo, sendo assim, há a necessidade
 Caso fique em dúvida se você ativou ou não, há um soundbeep para sinalizar a ação, evitando te confundir. ;)
 
 # O aimbot não funcionou. O que fazer?
-O executável foi compilado na arquitetura 64x Unicode, na versão 1.1.32.0 do AutoHotkey; Caso o aimbot não funcionar, compile a source na versão 32x ou na default utilizando o Ahk2Exe (compilador nativo). 
+O executável foi compilado na arquitetura 64x Unicode na versão 1.1.32.0 do AutoHotkey; Caso o aimbot não funcionar, compile a source na versão 32x ou na default utilizando o Ahk2Exe (compilador nativo). 
 
 A resolução de tela também implica em seu funcionamento. É recomendado utilizar 1980x1080 ou superior, no modo borderless window.
 
