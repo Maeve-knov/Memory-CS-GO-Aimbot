@@ -1,7 +1,7 @@
-msgbox, Ao abrir o game, aperte a tecla F2 e aguarde alguns segundos antes de iniciar uma sala. 
+Msgbox, Ao abrir o game, aperte a tecla F2 e aguarde alguns segundos antes de iniciar uma sala. 
 
-version = 1.0
-traytip, Memory CS:GO Aimbot %version%, Abra seu jogo e aperte F2!, 5, 1
+Version = 1.0
+Traytip, Memory CS:GO Aimbot %version%, Abra seu jogo e aperte F2!, 5, 1
 
 
 ReadMemory(MADDRESS,PROGRAM)
