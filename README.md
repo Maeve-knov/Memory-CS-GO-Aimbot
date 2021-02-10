@@ -1,6 +1,6 @@
 # Memory-CSGO-Aimbot
-Script simples de aimbot para o Counter Strike: Global Offensive.
-O script faz alterações na memória do jogo, sendo assim, há a necessidade de atualizar as offsets de acordo com as atualizações do game. 
+Um script simples de aimbot para o Counter Strike: Global Offensive.
+Este script faz alterações na memória do jogo, sendo assim, há a necessidade de atualizar as offsets de acordo com as atualizações do game. 
 
 # Como utilizá-lo?
 - Abra primeiramente o seu CS:GO e aguarde na tela inicial;
